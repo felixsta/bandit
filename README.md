@@ -20,7 +20,7 @@ Linux basic bash scripting and system research.
 
 ## Chapter I
 
-![linux_monitoring_v1](kandinsky-download-1701599552895_bandit.png)
+![The Bandit wargame v1.0](kandinsky-download-1701599552895_bandit.png)
 
 Планета Земля, США, штат Калифорния, город San Francisco, уютная кальянная "Code Clouds", настоящее время.
 
