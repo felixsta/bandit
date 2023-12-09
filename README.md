@@ -225,7 +225,7 @@ cp source_file /tmp/myname123/data.txt
 mv /tmp/myname123/data.txt /tmp/myname123/new_filename
 ```
 
-## Part 14. # 🗝️ Ключ от Комнаты 14 и 🧙 тайна localhost 🏠
+## Part 14. # 🗝️ Ключ от Комнаты 14 и 🧙 тайна `localhost` 🏠
 
 
 **== Задание ==**
