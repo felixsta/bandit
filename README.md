@@ -230,7 +230,7 @@ int main() {
   rot13(input);
   printf("Зашифрованная фраза: %s\n", input);
   return 0;
-}
+}```
 </details>
 
 
