@@ -379,7 +379,11 @@ mv /tmp/myname123/data.txt /tmp/myname123/new_filename
 **== Задание ==**
 
 
-Существует репозиторий Git по адресу ssh://bandit27-git@localhost/home/bandit27-git/repo через порт 2220. Пароль для пользователя bandit27-git такой же, как у пользователя bandit27.
+Существует репозиторий Git по адресу, порт 2220. 
+```console
+ssh://bandit27-git@localhost/home/bandit27-git/repo
+```
+Пароль для пользователя bandit27-git такой же, как у пользователя bandit27.
 
 Клонируйте репозиторий и найдите пароль для следующего уровня.
 
@@ -389,7 +393,11 @@ mv /tmp/myname123/data.txt /tmp/myname123/new_filename
 **== Задание ==**
 
 
-Есть репозиторий Git по адресу ssh://bandit28-git@localhost/home/bandit28-git/repo через порт 2220. Пароль для пользователя bandit28-git такой же, как и для пользователя bandit28.
+Есть репозиторий Git по адресу, порт 2220. 
+```console
+ssh://bandit28-git@localhost/home/bandit28-git/repo
+```
+Пароль для пользователя bandit28-git такой же, как и для пользователя bandit28.
 
 Клонируйте репозиторий и найдите пароль для следующего уровня.
 
@@ -398,9 +406,9 @@ mv /tmp/myname123/data.txt /tmp/myname123/new_filename
 **== Задание ==**
 
 
-Есть репозиторий Git по адресу 
+Есть репозиторий Git по адресу, порт 2220.
 ```console
-ssh://bandit29-git@localhost/home/bandit29-git/repo через порт 2220.
+ssh://bandit29-git@localhost/home/bandit29-git/repo
 ```
 Пароль для пользователя bandit29-git такой же, как и для пользователя bandit29.
 
