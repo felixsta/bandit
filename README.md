@@ -386,7 +386,7 @@ foo@bar:~$ ssh bandit.labs.overthewire.org -p 2220 -l bandit0
 }
 
 int main() {
-  char input[] = "Gur cnffjbeq vf G7w8LIi6J3kTb8A7j9LgrywtEUlyyp6s";
+  char input[] = "Gur cnffjbeq vf jN2kgmIXJ6fShzhT2avhotn4Zcka6tnt";
   printf("Исходная фраза: %s\n", input);
   rot13(input);
   printf("Зашифрованная фраза: %s\n", input);
